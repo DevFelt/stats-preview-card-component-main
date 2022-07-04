@@ -91,6 +91,8 @@ body{
 }
 
 .attribution{
+    position: absolute;
+    bottom: 0;
     font-size: 11px;
     text-align: center;
     color: rgba(136, 56, 185, 0.7);
